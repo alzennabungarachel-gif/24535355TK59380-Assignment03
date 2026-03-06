@@ -23,5 +23,5 @@ Syarat Binary Search: Algoritma pencarian biner hanya akan berfungsi dengan bena
 Manajemen Memori: Caller bertanggung jawab untuk membebaskan memori array yang dialokasikan oleh "generateSortedArray" menggunakan "delete[]".
 
 
-### Time spent on the assignment
-* [cite_start]**Total Time Spent**: 3 Days 14 Hours [cite: 234]
+#Time spent on the assignment 
+Total Time Spent: 3 Days 14 Hours
